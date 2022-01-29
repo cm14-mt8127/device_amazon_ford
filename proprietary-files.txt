@@ -1,4 +1,6 @@
 etc/.tp/thermal.policy.conf
+lib/libcam.paramsmgr.so
+lib/libcameracustom.so
 vendor/smartvolume/ford/anlg_dock_headset.csv
 vendor/smartvolume/ford/aux_digital.csv
 vendor/smartvolume/ford/bt_a2dp_headphones.csv
